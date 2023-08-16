@@ -11,5 +11,4 @@ UEB3233522
     depositing money, buying stocks, selling stocks, checking transactions, etc, which a person doing trade requires. This application will 
     use a DBMS such as MySQL to store data.
     
-Technologies:
-C++ programming languages, File I/O, MySQL, and OOPs.
+
